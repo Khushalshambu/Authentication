@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basics", "Authentication\Basics.csproj", "{6E2CDA54-502C-454E-88EA-34821055BB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityExample-BDAT", "IdentityExample-BDAT\IdentityExample-BDAT.csproj", "{048F98C4-5A74-4655-8B4C-8659825D879B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2CDA54-502C-454E-88EA-34821055BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2CDA54-502C-454E-88EA-34821055BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2CDA54-502C-454E-88EA-34821055BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2CDA54-502C-454E-88EA-34821055BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048F98C4-5A74-4655-8B4C-8659825D879B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048F98C4-5A74-4655-8B4C-8659825D879B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048F98C4-5A74-4655-8B4C-8659825D879B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048F98C4-5A74-4655-8B4C-8659825D879B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A87E90-80DD-4FE3-9BE9-6F74A8626FB3}
+	EndGlobalSection
+EndGlobal
